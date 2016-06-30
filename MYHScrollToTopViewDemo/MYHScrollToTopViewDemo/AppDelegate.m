@@ -7,6 +7,7 @@
 //
 #import "MYHScrollToTopView.h"
 #import "ViewController.h"
+#import "AppDelegate.h"
 @interface AppDelegate ()
 
 @end
