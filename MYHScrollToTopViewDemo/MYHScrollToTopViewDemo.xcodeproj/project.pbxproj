@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		137BEBF31D254DE2002A58AF /* MYHScrollToTopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 137BEBF21D254DE2002A58AF /* MYHScrollToTopView.m */; };
+		137BEBF81D254F47002A58AF /* MYHScrollToTopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 137BEBF71D254F47002A58AF /* MYHScrollToTopView.m */; };
 		A76F6BF71D254B8E009F9B40 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A76F6BF61D254B8E009F9B40 /* main.m */; };
 		A76F6BFA1D254B8E009F9B40 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A76F6BF91D254B8E009F9B40 /* AppDelegate.m */; };
 		A76F6BFD1D254B8E009F9B40 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A76F6BFC1D254B8E009F9B40 /* ViewController.m */; };
@@ -36,8 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		137BEBF11D254DE2002A58AF /* MYHScrollToTopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYHScrollToTopView.h; sourceTree = "<group>"; };
-		137BEBF21D254DE2002A58AF /* MYHScrollToTopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYHScrollToTopView.m; sourceTree = "<group>"; };
+		137BEBF61D254F47002A58AF /* MYHScrollToTopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYHScrollToTopView.h; sourceTree = "<group>"; };
+		137BEBF71D254F47002A58AF /* MYHScrollToTopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYHScrollToTopView.m; sourceTree = "<group>"; };
 		A76F6BF21D254B8E009F9B40 /* MYHScrollToTopViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MYHScrollToTopViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A76F6BF61D254B8E009F9B40 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A76F6BF81D254B8E009F9B40 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -81,20 +81,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		137BEBF01D254DE2002A58AF /* MYHScrollToTopView */ = {
+		137BEBF51D254F47002A58AF /* MYHScrollToTopView */ = {
 			isa = PBXGroup;
 			children = (
-				137BEBF11D254DE2002A58AF /* MYHScrollToTopView.h */,
-				137BEBF21D254DE2002A58AF /* MYHScrollToTopView.m */,
+				137BEBF61D254F47002A58AF /* MYHScrollToTopView.h */,
+				137BEBF71D254F47002A58AF /* MYHScrollToTopView.m */,
 			);
 			name = MYHScrollToTopView;
-			path = ../../Desktop/MYHScrollToTopView;
+			path = ../MYHScrollToTopView;
 			sourceTree = "<group>";
 		};
 		A76F6BE91D254B8E009F9B40 = {
 			isa = PBXGroup;
 			children = (
-				137BEBF01D254DE2002A58AF /* MYHScrollToTopView */,
+				137BEBF51D254F47002A58AF /* MYHScrollToTopView */,
 				A76F6BF41D254B8E009F9B40 /* MYHScrollToTopViewDemo */,
 				A76F6C0E1D254B8E009F9B40 /* MYHScrollToTopViewDemoTests */,
 				A76F6C191D254B8E009F9B40 /* MYHScrollToTopViewDemoUITests */,
@@ -288,7 +288,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A76F6BFD1D254B8E009F9B40 /* ViewController.m in Sources */,
-				137BEBF31D254DE2002A58AF /* MYHScrollToTopView.m in Sources */,
+				137BEBF81D254F47002A58AF /* MYHScrollToTopView.m in Sources */,
 				A76F6BFA1D254B8E009F9B40 /* AppDelegate.m in Sources */,
 				A76F6BF71D254B8E009F9B40 /* main.m in Sources */,
 			);
