@@ -2,7 +2,7 @@
  s.name         = "MYHScrollToTopView"
  s.version      = "0.0.1"
  s.summary      = "滚动视图点击状态栏可以滑动到最上方."
- s.authors = { ‘maoyuhu’ => ’982140599@qq.com’ }
+ s.authors = { ‘maoyuhu’ => ’13162766101@163.com’ }
  s.homepage     = "https://github.com/maoyuhu/MYHScrollToTopView"
  s.source = { :git => 'https://github.com/maoyuhu/MYHScrollToTopView.git', :tag => s.version }
  s.ios.deployment_target = '8.0'
